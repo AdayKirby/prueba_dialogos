@@ -1,0 +1,26 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=";3/Le,7^*NwbbE:}8rpt" x="0" y="0"><statement name="HANDLER"><block type="game_dialog_set_frame" id="S##3xCxCBk7@WL%Z5Toc"><value name="frame"><shadow type="dialog_image_picker" id="a7nF-A;qOhPt^W3vOzL["><field name="img">img`
+. 2 2 2 2 2 2 2 2 2 2 2 2 2 . 
+2 2 . . . . . . . . . . . 2 2 
+2 . . 2 2 2 2 2 2 2 2 2 . . 2 
+2 . 2 2 . . . . . . . 2 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 . . . . . . . . . 2 . 2 
+2 . 2 2 . . . . . . . 2 2 . 2 
+2 . . 2 2 2 2 2 2 2 2 2 . . 2 
+2 2 . . . . . . . . . . . 2 2 
+. 2 2 2 2 2 2 2 2 2 2 2 2 2 . 
+`</field></shadow></value><next><block type="game_dialog_set_cursor" id=".}${xxt[~V#(_ZCuhO3r"><value name="frame"><shadow type="screen_image_picker" id="`Y9f{TLJgrjta|$q2tXB"><field name="img">img`
+. . b b b . . . 
+. b 5 5 5 b . . 
+b 5 d 3 d 5 b . 
+b 5 3 5 1 5 b . 
+c 5 3 5 1 d c . 
+c 5 d 1 d d c . 
+. f d d d f . . 
+. . f f f . . . 
+`</field></shadow></value><next><block type="game_dialog_set_text_color" id="YB::P%]%ASEKaz!k.8]b"><value name="color"><shadow type="colorindexpicker" id="e1g9p_]kE^s;Hmj|~62c"><field name="index">7</field></shadow></value><next><block type="game_show_long_text" id=".2P5@JnZ@K1t3]0^Z6*J"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="=?^iTw1@uqMHJG94C6hC"><field name="TEXT">hola esta es la prueba 1 del dialogo</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
